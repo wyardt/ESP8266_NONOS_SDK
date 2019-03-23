@@ -1,3 +1,13 @@
+base on offical module wroom-02d on the ESP8266 DevKitsC
+use ESP8266 DOWNLOAD TOOL V3.6.5
+blank.bin@0x7E000
+esp_init_data_default_v08.bin@0x1FC000
+blank.bin@0x1FE000
+eagle.flash.bin@0x0
+eagle.irom0text.bin@0x10000
+SPI SPEED: 40MHz
+SPI MODE: QIO
+FLASH SIZE: 10Mbit-C1
 
 # Simple MQTT Client Demo
 
